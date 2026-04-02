@@ -94,7 +94,7 @@ loan-risk-analysis/
 
 ---
 
-## Author
+## connect
 
 **Vadla Datta Sai**
 Aspiring Data Analyst | Hyderabad, India
